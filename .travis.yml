@@ -6,6 +6,3 @@ script: ./mvnw clean install
 
 notifications:
  email: spark235@mycentennialcollege.ca
-
-
-
